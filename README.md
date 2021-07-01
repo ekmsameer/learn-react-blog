@@ -1,3 +1,7 @@
+# Contents
+
+React redux, Async action creators, middleware redux, edux thunk
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
